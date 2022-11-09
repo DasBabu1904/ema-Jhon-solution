@@ -1,0 +1,16 @@
+.Main-Section {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.Shopping-area {
+    margin-left: 45px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+
+}
+
+.Cart-Area {
+    background-color: #FFE0B3;
+}
